@@ -10,3 +10,5 @@ if (number < 100 or number >= 300) and (number % 3 == 0 or number % 7 == 0):
 
 else:
         print("Not a special number")
+
+print(200)
