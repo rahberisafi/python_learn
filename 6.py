@@ -1,13 +1,18 @@
 # grades = [100, 52, 66, 14, 2, 33, 17, 79]
 grades = [100, 52, 66, 14, 2, 33, 17, 79, 100, 100]
 
+print(grades)
 
-print(grades.count(100))
+grades[1:3] = [41,68]
 
-grades.pop()
-grades.pop()
+print(grades)
 
-print(grades.count(100))
+# print(grades.count(100))
+#
+# grades.pop()
+# grades.pop()
+#
+# print(grades.count(100))
 
 
 
